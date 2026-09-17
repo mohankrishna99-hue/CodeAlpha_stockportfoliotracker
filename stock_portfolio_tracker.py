@@ -1,11 +1,11 @@
 # Stock Portfolio Tracker
 
 stock_prices = {
-    "AAPL": 180,
-    "TSLA": 250,
-    "GOOGL": 140,
-    "MSFT": 420,
-    "AMZN": 185
+    "APPLE": 180,
+    "TESLA": 250,
+    "GOOGLE": 140,
+    "MICROSOFT": 420,
+    "AMAZON": 185
 }
 
 total_investment = 0
