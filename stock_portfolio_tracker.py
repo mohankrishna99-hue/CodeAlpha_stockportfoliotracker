@@ -1,4 +1,4 @@
-# Stock Portfolio Tracker
+# Stock Portfolio Tracker 
 
 stock_prices = {
     "APPLE": 180,
